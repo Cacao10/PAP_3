@@ -1,0 +1,30 @@
+{
+  "Monomodo Simplex": {
+    "descricao": "Fibra monomodo com transmissão simplex, usando uma única fibra para envio e receção com módulos BiDi/WDM.",
+    "attenuation": 0.2,
+    "modo": "Monomodo",
+    "transmissao": "Simplex",
+    "fibras": 1
+  },
+  "Monomodo Duplex": {
+    "descricao": "Fibra monomodo com transmissão duplex, usando duas fibras: uma para transmissão e outra para receção.",
+    "attenuation": 0.2,
+    "modo": "Monomodo",
+    "transmissao": "Duplex",
+    "fibras": 2
+  },
+  "Multimodo Simplex": {
+    "descricao": "Fibra multimodo com transmissão simplex, usando uma única fibra para envio e receção.",
+    "attenuation": 0.5,
+    "modo": "Multimodo",
+    "transmissao": "Simplex",
+    "fibras": 1
+  },
+  "Multimodo Duplex": {
+    "descricao": "Fibra multimodo com transmissão duplex, usando duas fibras: uma para transmissão e outra para receção.",
+    "attenuation": 0.5,
+    "modo": "Multimodo",
+    "transmissao": "Duplex",
+    "fibras": 2
+  }
+}
